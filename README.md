@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Email Marketing Scheduler & Distributor
 
 A robust, scalable full-stack application for scheduling and sending marketing emails with rate limiting, concurrency control, and fault tolerance.
@@ -131,3 +132,6 @@ The frontend provides a modern, responsive dashboard.
 ## 🛡️ License
 
 Private Repository.
+=======
+# New-mail-sender
+>>>>>>> ce409ce9a0628a94c12300e04ad13c945c52e1eb
